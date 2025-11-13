@@ -20,18 +20,23 @@ A continuación los pasos para instalar y jugar el juego:
 1. Clona el repositorio desde GitHub:  
    ```bash
    git clone https://github.com/tuUsuario/NombreDelJuego.git
-   cd (AQUI deberas de poner la ruta donde tengas el archivo, por ejemplo: D:\Programacion\Mini Juego - El Reflejo Roto)
+   cd (AQUI deberas de poner la ruta donde tengas el archivo, por ejemplo: Mini Juego - El Reflejo Roto)
 
-# En Unix / macOS:
-python3 -m venv venv
-source venv/bin/activate
+2. Creaa y activalo:
+En Unix / macOS:
+   ```bash
+   python3 -m venv venv
+   source venv/bin/activate
+2.
+En Windows:
+   ```powershell
+   python -m venv venv
+   venv\Scripts\activate
 
-# En Windows:
-python -m venv venv
-venv\Scripts\activate
+4. Para instalar lo necesario:
+   ```bash
+   pip install -r requirements.txt
 
-# Para instalar lo necesario:
-pip install -r requirements.txt
-
-# Para ejecutar el juego:
-python main.py
+5. Para ejecutar el juego:
+   ```bash
+   python main.py
