@@ -17,7 +17,8 @@ A continuación los pasos para instalar y jugar el juego:
 - Sistema operativo: Windows / MacOS / Linux.
 
 ### Instalación
-### Importante: Todos estos comandos deberás de ponerlos en la terminal, para ello recomiendo:
+### Importante:
+Todos estos comandos deberás de ponerlos en la terminal, para ello recomiendo:
 Instalar la terminal adicional de Microsoft Store: https://apps.microsoft.com/detail/9N0DX20HK701?hl=es-es&gl=ES&ocid=pdpshare
 Esto hará que en el juego aparezcan los emojis y se vean mejor los colores.
 Y ahí es donde deberás de ejecutar los siguientes comandos.
