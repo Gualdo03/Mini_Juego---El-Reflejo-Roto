@@ -27,8 +27,7 @@ En Unix / macOS:
    ```bash
    python3 -m venv venv
    source venv/bin/activate
-2.
-En Windows:
+2. En Windows:
    ```powershell
    python -m venv venv
    venv\Scripts\activate
